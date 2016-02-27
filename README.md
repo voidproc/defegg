@@ -12,8 +12,9 @@ Siv3D Game Jam 第一回 テーマ「たまご」の投稿作品です．
 
 
 ## ダウンロード
+<https://github.com/voidproc/defegg/releases/download/1.0/defegg.zip>
 
 ## ありがとうございます：
 フォントを使用させてもらいました．
 
-http://www.geocities.jp/two_2dogs/
+<http://www.geocities.jp/two_2dogs/>
