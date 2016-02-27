@@ -15,6 +15,8 @@ Siv3D Game Jam 第一回 テーマ「たまご」の投稿作品です．
 ## スクリーンショット
 ![ss1](https://github.com/voidproc/defegg/wiki/img/ss1.png)
 
+L-CLICK TO START, R-CLICK TO QUIT
+
 ![ss2](https://github.com/voidproc/defegg/wiki/img/ss2.png)
 
 黄色いゲージがたまごのライフ、緑がボムのゲージ（半分貯まってれば撃てる）です．
