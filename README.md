@@ -20,7 +20,11 @@ Siv3D Game Jam 第一回 テーマ「たまご」の投稿作品です．
 黄色いゲージがたまごのライフ、緑がボムのゲージ（半分貯まってれば撃てる）です．
 
 ## ダウンロード
-<https://github.com/voidproc/defegg/releases/download/1.0/defegg.zip>
+<https://github.com/voidproc/defegg/releases/download/1.0/defegg.zip> (x64版)
+
+## 開発環境
+* Windows 7 SP1 64bit
+* Visual Studio 2015 Community
 
 ## ありがとうございます：
 フォントを使用させてもらいました．
